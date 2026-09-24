@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local assignment evidence and protected course material.
+/references/
+
+# Generated and personal submission artifacts.
+/outputs/
+/submission/
+
+# Local Codex project guidance.
+/AGENTS.md
